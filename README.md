@@ -1,6 +1,6 @@
 # email_campaign_analysis
 ## Data Structure
-  Tables :  
+'''  Tables :  
 account                Key columns: `id`, `is_verified`, `is_unsubscribed`  
 account_session        Shows which users participated in which sessions. Key columns: `account_id`, `ga_session_id`    
 email_open             Tracks when users open emails and the type of email opened. Key columns: `open_date`, `letter_type`, `id_message`, `id_account`  
@@ -12,7 +12,7 @@ paid_search_cost       Contains data on paid search marketing expenses by date. 
 product                Key columns: `item_id`, `name`, `category`, `price`, `short_description`  
 revenue_predict        Predicted revenue values by date.Key columns: `date`, `predict`  
 session                Key columns: `ga_session_id`, `date`  
-session_params         Key columns: `ga_session_id`, `device`, `operating_system`, `browser`, `country`, `channel`, `medium`, `language`  
+session_params         Key columns: `ga_session_id`, `device`, `operating_system`, `browser`, `country`, `channel`, `medium`, `language`'''
 
 
 ## Project Overview
