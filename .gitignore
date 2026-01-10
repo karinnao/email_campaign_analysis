@@ -1,0 +1,11 @@
+# OS files
+Thumbs.db
+.DS_Store
+
+# Tableau temporary files
+*.hyper
+*.log
+
+# Credentials / secrets
+*.env
+*.json
