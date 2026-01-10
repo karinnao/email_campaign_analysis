@@ -15,7 +15,7 @@ session                Key columns: `ga_session_id`, `date`
 session_params         Key columns: `ga_session_id`, `device`, `operating_system`, `browser`, `country`, `channel`, `medium`, `language````
 
 
-## Project Overview
+ Project Overview
 
 The goal of this project is to collect and analyze data related to user account creation and email campaign activity.
 A single SQL query was developed to create a unified analytical dataset combining account-level and email-level data.
