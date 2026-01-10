@@ -1,6 +1,6 @@
 # email_campaign_analysis
 ## Data Structure
-Tables :
+**Tables :**
 account                Key columns: `id`, `is_verified`, `is_unsubscribed`
 account_session        Shows which users participated in which sessions. Key columns: `account_id`, `ga_session_id`
 email_open             Tracks when users open emails and the type of email opened. Key columns: `open_date`, `letter_type`, `id_message`, `id_account`
