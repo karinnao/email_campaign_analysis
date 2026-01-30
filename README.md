@@ -1,4 +1,10 @@
 # email_campaign_analysis
+
+[![Tableau Dashboard Screenshot](https://public.tableau.com/views/email_analysis_dashboard/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+ )
+
+## Project Dashboard : https://public.tableau.com/views/email_analysis_dashboard/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+ 
 ## Data Structure
 ```
 Tables :
