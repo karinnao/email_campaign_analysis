@@ -30,7 +30,7 @@ This approach enables meaningful segmentation of users and comparison of engagem
 Additionally, country-level totals and rankings are calculated to identify the most active and strategically important regions.
 The resulting dataset is used to build an interactive dashboard, allowing exploration of time-based trends, country rankings, and user engagement behavior to support data-driven email marketing decisions.
 
-## Key Insights
+ **Key Insights**
 
 1. Strong Top-of-Funnel Performance
 The campaign demonstrates strong top-of-funnel effectiveness, with an open rate of 35.51%, indicating solid subject line performance and overall brand engagement across key markets
